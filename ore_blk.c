@@ -19,7 +19,7 @@
 #include "flags.h"
 
 #include <gmp.h>
-#include <malloc.h>
+#include <stdlib.h>
 #include <string.h>
 
 // Helper macro for error handling
